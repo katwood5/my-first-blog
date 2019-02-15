@@ -20,14 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -36,28 +33,10 @@
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/django/db/models/sql/query.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20370">
-              <caret line="1388" selection-start-line="1388" selection-end-line="1388" />
             </state>
           </provider>
         </entry>
@@ -160,10 +139,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="710" y="27" width="656" height="741" extended-state="4" />
+    <frame x="55" y="27" width="1311" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917355" weight="0.3114754" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.143083" />
       <window_info id="Structure" order="1" sideWeight="0.5008264" side_tool="true" weight="0.14782609" />
       <window_info id="Favorites" order="2" sideWeight="0.5008264" side_tool="true" weight="0.14782609" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -174,8 +153,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289256" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49881423" visible="true" weight="0.31735536" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5011858" side_tool="true" weight="0.32561985" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49802372" visible="true" weight="0.31735536" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019763" side_tool="true" weight="0.31735536" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289256" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3294893" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -229,16 +208,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/djangogirls/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -249,9 +218,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/django/db/models/sql/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="1388" selection-start-line="1388" selection-end-line="1388" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="60">
           <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -259,27 +235,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/django/db/models/sql/query.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20370">
-          <caret line="1388" selection-start-line="1388" selection-end-line="1388" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="210">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
         </state>
       </provider>
     </entry>

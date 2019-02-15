@@ -2,6 +2,8 @@
 <html lang="en">
     <head>
         <title>Django Girls blog</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
     </head>
     <body>
         <div>
@@ -10,7 +12,7 @@
 
          {% for post in Posts %}
         <div>
-            <p>createded: {{ Post.created_date }}</p>
+            <p>published: {{ Post.published_date }}</p>
             <h2><a href="">{{Post.title}}</a></h2>
             <p>{{post.text|linebreaksbr }}</p>
         </div>
